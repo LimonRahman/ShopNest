@@ -1,6 +1,6 @@
 <?php
 /**
- * ShopEase - Homepage
+ * ShopNest - Homepage
  * This is the main landing page that shows categories and featured products
  */
 
@@ -229,4 +229,5 @@ include 'includes/header.php';
 // Include footer
 include 'includes/footer.php';
 ?>
+
 

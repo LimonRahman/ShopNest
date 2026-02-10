@@ -1,5 +1,5 @@
 /**
- * ShopEase - Main JavaScript File
+ * ShopNest - Main JavaScript File
  * Handles common functionality across the website
  */
 
@@ -199,4 +199,5 @@ if (typeof module !== 'undefined' && module.exports) {
         calculateTotal
     };
 }
+
 
